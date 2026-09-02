@@ -126,7 +126,7 @@
 
 ```bash
 # 方式A：submodule（推薦，可同步更新）
-git submodule add https://github.com/yourname/dev-os .dev-os
+git submodule add https://github.com/youllook/dev-os.git .dev-os
 
 # 方式B：直接複製
 cp -r dev-os/.dev-os ./新專案/.dev-os

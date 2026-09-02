@@ -51,7 +51,7 @@ git status
 ```
 若不存在，引導使用者執行：
 ```
-git submodule add https://github.com/{yourname}/dev-os .dev-os
+git submodule add https://github.com/youllook/dev-os.git .dev-os
 ```
 
 ### Step 6 — 回報摘要
