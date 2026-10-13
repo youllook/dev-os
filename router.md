@@ -30,7 +30,7 @@
 - repo 位置確認
 - git 金鑰設定確認
 - 專案結構掌握摘要
-- 確認後回報「INIT完成，可進入ISSUE導入」
+- 確認後回報「INIT完成，可進入ISSUE匯入」
 
 ---
 
@@ -42,7 +42,7 @@
 **產出**：
 - 讀取完整需求文件
 - 依 GitHub Issue Template 格式一次性建立所有 issue
-- 確認 issue 清單後回報「ISSUE導入完成，共N條，可進入開發」
+- 確認 issue 清單後回報「ISSUE匯入完成，共N條，可進入開發」
 
 ---
 

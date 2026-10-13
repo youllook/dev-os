@@ -1,4 +1,4 @@
-# 02-issue-import.md — Issue 導入規則
+# 02-issue-import.md — Issue 匯入規則
 
 ## 觸發條件
 - 情境01 INIT 完成後，尚無 issue
@@ -46,7 +46,7 @@ Planner（高階AI）
 ### Step 5 — 回報摘要
 建立完成後回報：
 ```
-ISSUE導入完成
+ISSUE匯入完成
 共 N 個 issue，N 個 branch
 開發順序：
   1. #IssueNo — {標題}（branch: ai-batch-xxx）
